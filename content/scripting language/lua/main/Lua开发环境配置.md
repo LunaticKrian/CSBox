@@ -10,7 +10,7 @@
 
 1. 下载 Lua SDK：
 
-[Lua SDK 下载地址](https://sourceforge.net/projects/luabinaries/files/5.3.4/Tools%20Executables/lua-5.3.4_Win64_bin.zip)
+[Lua 解释器 下载地址](https://sourceforge.net/projects/luabinaries/files/5.3.4/Tools%20Executables/lua-5.3.4_Win64_bin.zip)
 
 下面是官方提供的源码下载地址，可以自行编译：
 
@@ -40,7 +40,7 @@
 
 ### 使用 Windows安装包方法安装：
 
-[Lua 解释器 GitHub地址](https://github.com/rjpcomputing/luaforwindows)
+[👉👉 Lua Windows解释器 GitHub地址](https://github.com/rjpcomputing/luaforwindows)
 
 进入Releases 中下载 exe 执行文件（Lua 解释器安装包），双击下一步安装！
 
