@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0793ed22-29f3-43c7-acf7-43c399f98767" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../main/Lua基础语法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../main/Lua操作数据库.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../main/img/Snipaste_2022-10-14_22-08-28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../main/img/Snipaste_2022-10-14_22-21-22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../main/img/Snipaste_2022-10-14_23-01-39.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../main/img/Snipaste_2022-10-14_23-04-34.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../main/img/Snipaste_2022-10-14_23-07-34.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../main/img/Snipaste_2022-10-14_23-10-45.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../about/geek _journal/Krian/【2022】/10.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../about/geek _journal/Krian/【2022】/10.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lua.md" beforeDir="false" afterPath="$PROJECT_DIR$/../lua.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main/Lua开发环境配置.md" beforeDir="false" afterPath="$PROJECT_DIR$/../main/Lua开发环境配置.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665753633393</updated>
       <workItem from="1665754029089" duration="335000" />
-      <workItem from="1665754373822" duration="2821000" />
+      <workItem from="1665754373822" duration="3082000" />
     </task>
     <servers />
   </component>
