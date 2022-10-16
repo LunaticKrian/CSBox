@@ -4,4 +4,4 @@
 
 [🐣 Lua 基础语法](main/Lua基础语法.md)
 
-[🐣 Lua 操作数据库](main/Lua操作数据库.md)
+[🐣 Lua 操作数据库](main/Lua操作数据库.md)1

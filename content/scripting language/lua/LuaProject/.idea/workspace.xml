@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0793ed22-29f3-43c7-acf7-43c399f98767" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Embedded development/PCB/PCBProject/FirstProject/最小系统板/最小系统板.PrjPcbStructure" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Principles of Computer/Assembly Language/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Principles of Computer/Design Patterns/《图解设计模式》/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Principles of Computer/Design Patterns/《图解设计模式》/main/第一部分：适应设计模式.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/lua/main.lua" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/lua/main.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lua.md" beforeDir="false" afterPath="$PROJECT_DIR$/../index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../main/Lua基础语法.md" beforeDir="false" afterPath="$PROJECT_DIR$/../main/Lua基础语法.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,18 +40,18 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/software/lua-5.3.4_Win64_bin/lua53.exe",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/software/lua-5.3.4_Win64_bin/lua53.exe&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Lua Application.main.lua">
     <configuration default="true" type="lua.app" factoryName="Lua Application">
       <option name="program" value="C:\software\lua-5.3.4_Win64_bin\lua53.exe" />
@@ -97,6 +104,8 @@
       <updated>1665753633393</updated>
       <workItem from="1665754029089" duration="335000" />
       <workItem from="1665754373822" duration="3082000" />
+      <workItem from="1665810329207" duration="3218000" />
+      <workItem from="1665826427657" duration="3000" />
     </task>
     <servers />
   </component>
